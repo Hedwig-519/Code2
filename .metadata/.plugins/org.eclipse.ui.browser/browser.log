@@ -1,0 +1,44 @@
+
+Aug 28, 2023 13:40:13.417 NEW SESSION
+Aug 28, 2023 13:40:13.417 [9912:11564:0828/134013.414:ERROR:device_event_log_impl.cc(222)] [13:40:13.413] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Aug 28, 2023 14:11:02.839 [9912:14288:0828/141102.839:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for beacons.gcp.gvt2.com failed:
+Aug 28, 2023 14:11:02.840 ----- Certificate i=0 (CN=*.gcp.gvt2.com) -----
+Aug 28, 2023 14:11:02.840 ERROR: Time is after notAfter
+Aug 28, 2023 14:11:02.841 
+Aug 28, 2023 14:11:02.841 
+
+Aug 28, 2023 15:25:21.854 NEW SESSION
+Aug 28, 2023 15:25:21.855 [8592:10168:0828/152521.851:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for e2c32.gcp.gvt2.com failed:
+Aug 28, 2023 15:25:21.856 ----- Certificate i=0 (CN=*.gcp.gvt2.com) -----
+Aug 28, 2023 15:25:21.856 ERROR: Time is after notAfter
+Aug 28, 2023 15:25:21.857 
+Aug 28, 2023 15:25:21.857 
+Aug 28, 2023 15:25:28.63 [8592:10168:0828/152528.062:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for e2c45.gcp.gvt2.com failed:
+Aug 28, 2023 15:25:28.63 ----- Certificate i=0 (CN=*.gcp.gvt2.com) -----
+Aug 28, 2023 15:25:28.63 ERROR: Time is after notAfter
+Aug 28, 2023 15:25:28.63 
+Aug 28, 2023 15:25:28.63 
+Aug 28, 2023 15:29:12.265 [8592:10168:0828/152912.265:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for beacons.gcp.gvt2.com failed:
+Aug 28, 2023 15:29:12.265 ----- Certificate i=0 (CN=*.gcp.gvt2.com) -----
+Aug 28, 2023 15:29:12.266 ERROR: Time is after notAfter
+Aug 28, 2023 15:29:12.266 
+Aug 28, 2023 15:29:12.266 
+Aug 28, 2023 15:51:40.685 [8592:3488:0828/155140.685:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+Aug 28, 2023 15:53:04.211 [8592:3488:0828/155304.211:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+Aug 28, 2023 15:58:58.606 [8592:3488:0828/155858.606:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+Sep 07, 2023 09:08:17.564 NEW SESSION
+Sep 07, 2023 09:08:17.564 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Sep 07, 2023 09:09:35.380 NEW SESSION
+Sep 07, 2023 09:09:35.380 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Sep 07, 2023 09:35:41.661 [11940:10272:0907/093541.660:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+
+Sep 17, 2023 14:36:54.425 NEW SESSION
+Sep 17, 2023 14:36:54.425 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Sep 17, 2023 14:51:19.124 [1744:9604:0917/145119.123:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+Sep 17, 2023 14:55:22.878 [1744:7036:0917/145522.877:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 17, 2023 14:55:53.224 [1744:7036:0917/145553.224:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Sep 26, 2023 20:50:44.262 NEW SESSION
+Sep 26, 2023 20:50:44.262 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.

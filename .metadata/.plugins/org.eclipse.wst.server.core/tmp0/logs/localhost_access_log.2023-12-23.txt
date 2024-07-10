@@ -1,0 +1,8 @@
+127.0.0.1 - - [23/Dec/2023:14:22:53 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [23/Dec/2023:14:22:55 +0700] "GET /Project/adminTrangChuController HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [23/Dec/2023:14:22:55 +0700] "GET /Project/adminDangNhapController HTTP/1.1" 200 1779
+0:0:0:0:0:0:0:1 - - [23/Dec/2023:14:23:05 +0700] "POST /Project/adminDangNhapController HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [23/Dec/2023:14:23:06 +0700] "GET /Project/adminTrangChuController HTTP/1.1" 200 3929
+0:0:0:0:0:0:0:1 - - [23/Dec/2023:14:23:08 +0700] "GET /Project/adminQuanLyMatHangController HTTP/1.1" 200 25674
+0:0:0:0:0:0:0:1 - - [23/Dec/2023:14:23:08 +0700] "GET /Project/GiayThem/3-2-430x430.jpg HTTP/1.1" 404 791
+0:0:0:0:0:0:0:1 - - [23/Dec/2023:14:26:11 +0700] "GET /Clock/admin HTTP/1.1" 404 688
